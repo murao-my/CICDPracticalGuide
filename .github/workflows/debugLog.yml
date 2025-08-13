@@ -1,0 +1,17 @@
+name: Debug Log
+on: 
+  push:
+    
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug Log
+        run: |
+          echo "Hello, World!"
+          echo "This is a debug log"
+          echo "::debug::This is a debug log command value"
