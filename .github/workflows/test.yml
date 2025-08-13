@@ -13,10 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Setup .NET
-        uses: actions/setup-dotnet@v3
+        uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 8.0.x
       - name: Install dependencies
-        run: dotnet restore
+        run: dotnet restore CICDPracticalGuide.sln
       - name: Run tests
-        run: dotnet test
+        run: dotnet test CICDPracticalGuide.sln --no-build
