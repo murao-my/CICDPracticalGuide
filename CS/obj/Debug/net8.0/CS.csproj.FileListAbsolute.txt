@@ -1,0 +1,15 @@
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/bin/Debug/net8.0/CS
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/bin/Debug/net8.0/CS.deps.json
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/bin/Debug/net8.0/CS.runtimeconfig.json
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/bin/Debug/net8.0/CS.dll
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/bin/Debug/net8.0/CS.pdb
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.GeneratedMSBuildEditorConfig.editorconfig
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.AssemblyInfoInputs.cache
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.AssemblyInfo.cs
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.csproj.CoreCompileInputs.cache
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.sourcelink.json
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.dll
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/refint/CS.dll
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.pdb
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/CS.genruntimeconfig.cache
+/home/muraoo/rootbot/CICDPracticalGuide/CICDPracticalGuide/CS/obj/Debug/net8.0/ref/CS.dll
