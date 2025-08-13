@@ -4,6 +4,8 @@ on:
     paths:
     - 'CS.Tests/**'
     - 'CS/**'
+    - '.github/workflows/test.yml'
+  workflow_dispatch:
 
 jobs:
   test:
